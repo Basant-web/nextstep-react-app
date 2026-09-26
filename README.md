@@ -1,1 +1,1 @@
-for scenario check nextstep folder README.md file
+for scenario check nextstep-web folder README.md file
