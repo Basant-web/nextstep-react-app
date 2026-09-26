@@ -4,7 +4,7 @@
 
 the repository link:
 
-`YOUR_GITHUB_REPOSITORY_LINK`
+`https://github.com/Basant-web/nextstep-react-app`
 
 ### Live Demo
 
