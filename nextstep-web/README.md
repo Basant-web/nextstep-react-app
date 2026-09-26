@@ -10,7 +10,7 @@ the repository link:
 
 live demo link:
 
-`YOUR_LIVE_DEMO_LINK`
+`https://nextstep99.netlify.app/`
 
 ## Overview
 
@@ -229,16 +229,30 @@ A server-error response was tested successfully.
 Temporary `X-Chaos` headers used for testing were removed from the final
 implementation.
 
-## Screenshots
+## Scenario Results
 
-Screenshots can be added here after placing them in the project's
-`images` folder.
+### Scenario 1 — Multi-problem
+![Scenario 1](./src/images/scenario1.png)
 
-Example:
+### Scenario 2 — Hinglish
+![Scenario 2](./src/images/scenario2.png)
 
-``` markdown
-![scenario 1](./src/images/scenario1.2.png)
-```
+### Scenario 3 — Contradictory
+![Scenario 3.1](./src/images/scenario3.1.png)
+
+![Scenario 3.2](./src/images/scenario3.2.png)
+
+### Scenario 4 — Emotional / At-risk
+![Scenario 4](./src/images/scenario4.png)
+
+### Scenario 5 — Irrelevant / Misuse
+![Scenario 5](./src/images/scenario5.png)
+
+### Scenario 6 — Adversarial
+![Scenario 6](./src/images/scenario6.png)
+
+### Scenario 7 — Worse after action
+![Scenario 7](./src/images/scenario7.png)
 
 ## Running the Project
 
