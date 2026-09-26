@@ -10,7 +10,7 @@ the repository link:
 
 live demo link:
 
-`YOUR_LIVE_DEMO_LINK`
+`https://nextstep99.netlify.app/`
 
 ## Overview
 
